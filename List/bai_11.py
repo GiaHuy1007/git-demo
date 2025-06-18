@@ -1,0 +1,1 @@
+ds = eval(input('Nhap ten va diem: '))

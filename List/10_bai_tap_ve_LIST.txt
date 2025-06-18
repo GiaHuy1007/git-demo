@@ -1,0 +1,20 @@
+LIST – 10 bài tập
+Nhập một danh sách số nguyên từ bàn phím và in ra danh sách đó.
+
+Tính tổng các phần tử trong danh sách.
+
+Tìm phần tử lớn nhất và nhỏ nhất trong danh sách.
+
+Đếm số lần xuất hiện của một phần tử bất kỳ trong danh sách.
+
+Sắp xếp danh sách theo thứ tự tăng dần.
+
+Đảo ngược danh sách.
+
+Xóa tất cả phần tử trùng nhau, giữ lại phần tử đầu tiên.
+
+Thêm một phần tử vào cuối danh sách.
+
+Chèn một phần tử vào vị trí bất kỳ trong danh sách.
+
+Gộp 2 danh sách lại với nhau.
